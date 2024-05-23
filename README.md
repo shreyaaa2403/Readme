@@ -40,9 +40,7 @@
 
 
 ## Some of my Github Stats
-<a href="https://github.com/shreyaaa2403">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaaa2403&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaaa2403&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h3 align="left">GitHub Stats:</h3>

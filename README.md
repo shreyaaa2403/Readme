@@ -23,7 +23,7 @@
 
 <p align="center">
    <a href="https://twitter.com/_SHREYA MUKHERJEE"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_SHREYA MUKHERJEE"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
+   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt=#" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
 <p align="center">
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shreyaaa2403&label=Profile%20views&color=0e75b6&style=flat" alt="shreya" /> 
@@ -43,7 +43,7 @@
 
  - 🥀 Learning React & SQL
  
- - <i>with Javascript, Database Schema and 69 others.</i>
+ - <i>with Javascript, Database Schema and Data Types.</i>
    
  
 

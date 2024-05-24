@@ -113,8 +113,8 @@
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
    </p>
    
-  
-   
+  <img src="https://github.com/shreyaaa2403/shreyaaa2403/blob/output/snake.svg" alt="GitHub Snake Animation"/>
+
    
 <br />
 
